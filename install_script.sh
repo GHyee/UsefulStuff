@@ -24,7 +24,7 @@ brew install --cask macs-fan-control
 brew install --cask alfred
 
 # chat
-brew install --cask whatsapp
+# brew install --cask whatsapp
 brew install --cask telegram
 
 # fonts
@@ -47,16 +47,16 @@ brew install --cask visual-studio-code
 brew install --cask homebrew/cask-versions/docker-edge
 
 # k8s and oc 
-brew install openshift-cli
-brew install kubectl
+# brew install openshift-cli
+# brew install kubectl
 brew install helm
 
 # database, s3 access
-brew install --cask dbeaver-community cyberduck
+# brew install --cask dbeaver-community cyberduck
 brew install postgresql
-brew install --cask microsoft-azure-storage-explorer
+# brew install --cask microsoft-azure-storage-explorer
 
 #versioning
-brew install dvc
+# brew install dvc
 
 
